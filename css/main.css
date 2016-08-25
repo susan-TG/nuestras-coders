@@ -1,0 +1,62 @@
+/* Inserta tu código aqui */
+
+
+
+.box {
+
+	width: 200px;
+	height: 200px;
+	background: grey;
+	display: inline-block;
+	position: relative;
+	border-left: 10px;
+	margin-left: 10px;
+
+}
+p {
+	margin-bottom: 0px;
+	margin-left: 20px;
+	color: white;
+	
+}
+
+.primera {
+
+	background-image: url(img/profile-1.png);
+	position: absolute;
+
+
+}
+
+
+.segunda {
+	background-image: url(img/profile-2.png);
+	position: absolute;
+
+}
+.tercera {
+	background-image: url(img/profile-3.png);
+	position: absolute;
+
+}
+.cuarta {
+	background-image: url(img/profile-4.png);
+	position: absolute;
+
+}
+.quinta {
+	background-image: url(img/profile-5.png);
+	position: absolute;
+
+}
+.sexta {
+	background-image: url(img/profile-6.png);
+	position: absolute;
+
+}
+
+
+
+
+
+
