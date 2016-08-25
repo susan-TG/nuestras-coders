@@ -1,61 +1,59 @@
 /* Inserta tu código aqui */
 
-
-
-.box {
-
+.caja {
 	width: 200px;
 	height: 200px;
-	background: grey;
 	display: inline-block;
+	margin-left:15px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 	position: relative;
-	border-left: 10px;
-	margin-left: 10px;
-
 }
-p {
-	margin-bottom: 0px;
-	margin-left: 20px;
+.line {
+	width: 60px;
+	height: 2px;
+	background-color: black;
+	margin-left: 90px;
+	margin-top: 30px;
+}
+h3 {
+	font-family: Arial;
+	margin-left: 90px;
+	margin-top: 30px;
+}
+h5 {
 	color: white;
-	
+	font-family: Arial;
+	font-size: 15px;
+	position: absolute;
+	bottom: 5px;
+	right: 5px;
+	margin: 0px;
 }
-
+.abajo, .arriba {
+	margin-left: 100px;
+}
 .primera {
-
-	background-image: url(img/profile-1.png);
-	position: absolute;
-
-
+	background-image: url(../img/profile-1.png);
+	margin-top: 30px;
 }
-
-
 .segunda {
-	background-image: url(img/profile-2.png);
-	position: absolute;
-
+	background-image: url(../img/profile-2.png);	
+	margin-top:30px;
 }
 .tercera {
-	background-image: url(img/profile-3.png);
-	position: absolute;
-
+	background-image: url(../img/profile-3.png);
+	margin-top:30px;
 }
 .cuarta {
-	background-image: url(img/profile-4.png);
-	position: absolute;
-
+	background-image: url(../img/profile-4.png);
 }
 .quinta {
-	background-image: url(img/profile-5.png);
-	position: absolute;
-
+	background-image: url(../img/profile-5.png);
 }
 .sexta {
-	background-image: url(img/profile-6.png);
-	position: absolute;
-
+	background-image: url(../img/profile-6.png);
 }
-
-
 
 
 
